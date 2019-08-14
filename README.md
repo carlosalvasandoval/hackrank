@@ -1,2 +1,2 @@
 # hackrank
-Some hackrank solutions
+Some hackrank solutions based on PHP
