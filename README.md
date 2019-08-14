@@ -1,0 +1,2 @@
+# hackrank
+Some hackrank solutions
