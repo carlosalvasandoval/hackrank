@@ -2,6 +2,7 @@
 /*
   Function Description
   Complete the function hourglassSum in the editor below. It should return an integer, the maximum hourglass sum in the array.
+  https://www.hackerrank.com/challenges/2d-array/problem
  */
 function hourglassSum($arr)
 {
